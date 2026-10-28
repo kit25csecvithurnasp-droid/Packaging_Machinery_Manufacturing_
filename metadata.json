@@ -1,0 +1,6 @@
+{
+  "name": "ArtifactCraft Studio",
+  "description": "Convert Claude shared conversations, artifacts, and prompts into live, production-grade interactive websites with responsive preview, live code editing, and full-featured template showcases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
